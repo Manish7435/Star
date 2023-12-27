@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+      @apply scroll-smooth;
+      font-family: 'Fjalla One', sans-serif;
+      /* background: white; */
+    }
+  }
+
+  .gradient-text{
+    background: linear-gradient(
+      to right,
+      #6366f1,
+      #a7f3d0,
+      #6ee7b7,
+      #7c3aed,
+      #6366f1,
+      #a7f3d0,
+      #6ee7b7,
+      #7c3aed
+    );
+    background-size: 300% 300%;
+    background-clip: text;
+  }
