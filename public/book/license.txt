@@ -1,0 +1,11 @@
+Model Information:
+* title:	Open book - Sun Tzu's Art of War
+* source:	https://sketchfab.com/3d-models/open-book-sun-tzus-art-of-war-906259a729874637b7e34cac4e95ad9f
+* author:	patspet (https://sketchfab.com/patspet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Open book - Sun Tzu's Art of War" (https://sketchfab.com/3d-models/open-book-sun-tzus-art-of-war-906259a729874637b7e34cac4e95ad9f) by patspet (https://sketchfab.com/patspet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
